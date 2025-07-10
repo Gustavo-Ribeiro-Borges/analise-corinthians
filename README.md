@@ -39,6 +39,6 @@
 <p>Caso tenha interesse em trocar ideias ou colaborar:</p>
 
 <ul>
-  <li><a href=\"https://www.linkedin.com/in/gustavo-borgess\" target="_blank">LinkedIn</a></li>
+  <li><a href="https://www.linkedin.com/in/gustavo-borgess" target="_blank">LinkedIn</a></li>
   <li>Email: gustaborges2006@gmail.com</li>
 </ul>
